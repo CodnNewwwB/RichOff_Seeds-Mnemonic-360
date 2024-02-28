@@ -35,6 +35,7 @@ If you've found our software helpful and wish to contribute to the creation of f
 
  DONATIONS 🔗
 LTC Address: ltc1qhqj7jn8r9tmkfgjjeqnnvzrwh824f0gda8z6zy
+
 BTC Address: bc1qeav6j8d0hdqp6lfrjl07y7hmr9qzcna6j995qr
 
 Your generosity fuels our passion for innovation and enables us to continue developing impactful software solutions. Every donation, no matter the size, is deeply appreciated and goes directly toward the advancement of our projects.
